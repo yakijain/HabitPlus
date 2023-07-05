@@ -1,10 +1,10 @@
 # Privacy Policy
 
-This Privacy Policy governs the manner in which [Your App Name] collects, uses, maintains, and discloses information collected from users (hereinafter referred to as "User") of the [Your App Name] mobile application.
+This Privacy Policy governs the manner in which HabitPlus collects, uses, maintains, and discloses information collected from users (hereinafter referred to as "User") of the HabitPlus mobile application.
 
 ## Data Collection and Usage
 
-[Your App Name] collects and processes usage analytics data to improve user experience and measure app performance. This data includes anonymized and aggregated information, such as app opens, screen views, and events. No personally identifiable information is collected.
+HabitPlus collects and processes usage analytics data to improve user experience and measure app performance. This data includes anonymized and aggregated information, such as app opens, screen views, and events. No personally identifiable information is collected.
 
 ## Data Sharing and Retention
 
@@ -20,7 +20,7 @@ We do not retain user data collected by Google Analytics beyond the standard ret
 
 ## Third-Party Libraries and SDKs
 
-[Your App Name] integrates the Google Analytics SDK for analytics purposes. By using our app, you agree to comply with Google's policies and terms of service.
+HabitPlus integrates the Google Analytics SDK for analytics purposes. By using our app, you agree to comply with Google's policies and terms of service.
 
 ## App Certification
 
@@ -28,4 +28,4 @@ Our app complies with applicable privacy laws and regulations. We have implement
 
 ## Changes to this Privacy Policy
 
-[Your App Name] reserves the right to update this Privacy Policy at any time. Users are encouraged to check this page periodically for any changes. By using this app, you acknowledge and agree to the Privacy Policy outlined above.
+HabitPlus reserves the right to update this Privacy Policy at any time. Users are encouraged to check this page periodically for any changes. By using this app, you acknowledge and agree to the Privacy Policy outlined above.
