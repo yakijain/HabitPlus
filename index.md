@@ -22,5 +22,3 @@ Key Features:
 9. **Dark Mode**: HabitPlus offers a sleek dark mode interface option, ensuring a comfortable and visually appealing experience, especially in low-light conditions.
 
 Make HabitPlus your ultimate habit companion and start building a positive and productive lifestyle today. Download now and take control of your habits, one day at a time.
-
-HabitPlus offers in-app purchases and subscriptions to unlock additional features and premium content.
