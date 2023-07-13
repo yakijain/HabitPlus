@@ -1,1 +1,1 @@
-![logo][/HabitPlus/assets/img/logo.png]
+![logo][assets/img/logo.png]
