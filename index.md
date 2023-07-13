@@ -1,5 +1,5 @@
 
-# HabitPlus- Daily Habit Tracker
+# <img src="assets/img/logo.png" alt="Alt Text" width="24" height="24"> HabitPlus- Daily Habit Tracker
 HabitPlus is a comprehensive habit tracking app designed to help you build and maintain positive habits, improve productivity, and achieve your goals. With its user-friendly interface and powerful features, HabitPlus makes habit tracking a breeze.
 
 Key Features:
