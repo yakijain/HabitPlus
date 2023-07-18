@@ -1,3 +1,16 @@
+### v1.6.0
+
+### v1.5.0
+* Notifications Revamp
+* Water Widget
+### v1.4.0
+* Add Habit Sheet
+* Import Health Connect Steps
+* Zip Export/Import
+* Card DropDown Menu 
+* Delete Card
+* Design Improvement- aedHabit
+* Bug Fixes
 ### v1.3.1
 * BugFix- Keyboard issue through template journey
 * BugFix- Await in load file
