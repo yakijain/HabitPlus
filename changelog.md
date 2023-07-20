@@ -11,6 +11,10 @@
 * Delete Card
 * Design Improvement- aedHabit
 * Bug Fixes
+* Health expansion
+
+UICopy Fix
+
 ### v1.3.1
 * BugFix- Keyboard issue through template journey
 * BugFix- Await in load file
