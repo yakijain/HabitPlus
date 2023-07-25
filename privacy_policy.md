@@ -4,7 +4,9 @@ This Privacy Policy governs the manner in which HabitPlus collects, uses, mainta
 
 ###### Data Collection and Usage
 
-HabitPlus collects and processes usage analytics data to improve user experience and measure app performance. This data includes anonymized and aggregated information, such as app opens, screen views, and events. **No personally identifiable information is collected.** No health related data is collected.
+HabitPlus collects and processes usage analytics data to improve user experience and measure app performance. This data includes anonymized and aggregated information, such as app opens, screen views, and events. 
+* **No personally identifiable information is collected.** 
+* **No health related data is collected.**
 
 ###### Data Sharing and Retention
 
