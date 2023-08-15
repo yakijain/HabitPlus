@@ -1,4 +1,4 @@
-# Using Home Screen Widget
+# Add Widget to HomeScreen
 
 
 <img src="assets/img/widget_preview.png" alt="Alt Text" height="100">
@@ -12,3 +12,4 @@ Steps:
 5. Resize the widget to full width.
 
 Cheers!
+Happy Growing!
