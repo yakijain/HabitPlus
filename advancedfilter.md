@@ -6,7 +6,7 @@ Classic Filter
 
 <img src="assets/img/classic_filter.png" width="250">
 
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+👇👇👇👇👇👇👇👇👇👇👇
 
 Advanced Filter
 
