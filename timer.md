@@ -11,6 +11,7 @@ Use in-app timer to log your time bound habits.
    ["minute", "minutes", "mins","min",
     "hours", "hour", "hrs", "hr",
     "seconds", "second", "secs", "sec"]
+    ```
 3. Once habit is created, long press on the habit and select - Start Timer.
 
 
